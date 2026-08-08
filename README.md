@@ -63,4 +63,4 @@ streamlit run app.py
 
 ## Author
 
-Anubhab Nandi
+Hrishita Pal
